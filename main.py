@@ -13,3 +13,8 @@ with col2:
 Hi, my name is Joseph Ofei, I am a python pragram with 2 years of experience and willing to gain new and more skills.
 """
     st.info(content)
+
+content = """
+Below you can find some of the apps I have built in Python. Feel free to contact me!
+"""
+text = st.write(content)
